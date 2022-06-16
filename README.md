@@ -1,1 +1,1 @@
-"# Bookmyshow-Alerter" 
+# Bookmyshow-Alerter
